@@ -28,7 +28,7 @@ En caso de tener activar inmediatamente la redundancia del servidor para que los
      citas de emergencia? Esta acción debe reflejarse en un commit de este
      repositorio con un mensaje descriptivo. -->
      Se hará la activación de un servidor secundario 
-     que provea los mismos servicios que el servidor principal
+     que provea los mismos servicios que el servidor principal.
 
 
 
