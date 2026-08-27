@@ -1,8 +1,8 @@
 # Bitácora de supervivencia — CitasSalud+
 
-**Estudiante:** ____________________
+**Estudiante:** Ana Sofía Campos Garita
 **Sección:** 11-6
-**Fecha:** ____________________
+**Fecha:** 27/8/26
 
 ## Escenario
 
@@ -13,7 +13,7 @@ se satura y queda fuera de línea.
 ## 1. Identificación
 
 <!-- ¿Cómo se detectó que el servidor había caído? ¿Qué señal o dato lo evidenció? -->
-
+Se dectecto que el servidor se había caído debido a que dejo de dar servicios y los usuarios no podían ingresar a agendar sus citas medicas
 
 
 ## 2. Contención
