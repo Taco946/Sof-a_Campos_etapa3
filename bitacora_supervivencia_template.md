@@ -27,12 +27,12 @@ En caso de tener activar inmediatamente la redundancia del servidor para que los
 <!-- ¿Qué acción concreta permitió que la aplicación siguiera operando para
      citas de emergencia? Esta acción debe reflejarse en un commit de este
      repositorio con un mensaje descriptivo. -->
-     La acción concreta sería activar la redundancia de un servidor secundario 
+     Se hará la activación de un servidor secundario 
      que provea los mismos servicios que el servidor principal
 
 
 
-**Commit de recuperación:** (activar servidor secundario por caída del principal)
+**Commit de recuperación:** (Activar servidor secundario por caída del principal)
 
 ## 4. Aprendizaje / mejora
 
