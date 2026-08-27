@@ -32,7 +32,7 @@ En caso de tener activar inmediatamente la redundancia del servidor para que los
 
 
 
-**Commit de recuperación:** (Activar servidor secundario por caída del principal)
+**Commit de recuperación:** (07669930cdf539907a85a9733b736bff0b6dfd6c)
 
 ## 4. Aprendizaje / mejora
 
